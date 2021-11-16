@@ -1,6 +1,3 @@
-## NOTE:
-This repository was anynomized for review. After the review, this repository will be publicly available on Github and the links in the paper will be updated.
-
 # Android App Behavior Monitoring / Hooking Tools
 
 |Tool |Available|Last Active|License|APK Repacking|Root Req.|Sandbox|Device Type|Dyn. Hooking|Hooking Scope|Instrumentation|
